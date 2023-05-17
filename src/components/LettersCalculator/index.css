@@ -1,0 +1,52 @@
+/* Write your code here. */
+.container {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  min-height: 100vh;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.bg-container {
+  display: flex;
+  justify-content: center;
+}
+
+.text-container {
+  max-width: 60%;
+  align-self: center;
+}
+
+.heading {
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 30px;
+  max-width: 50%;
+}
+
+.label {
+  color: #ffffff;
+  font-size: 15px;
+}
+
+.inputEle {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  border-radius: 6px;
+  height: 40px;
+  width: 250px;
+}
+
+.count-head {
+  color: #219a6f;
+  font-weight: bold;
+  font-size: 22px;
+  background-color: #ffffff;
+  border-radius: 6px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 50px;
+  padding-left: 50px;
+  text-align: center;
+  max-width: 60%;
+}
